@@ -12,9 +12,10 @@ Game server based on Golang, and the game client is made with unity
 * 游戏客户端(GameClient)：链接：https://pan.baidu.com/s/15rPjnz9t7z4jUUEto_MqlA 提取码：jgxg
 
 
-# 2、快速使用
-Prerequisites：
+# 2、Prerequisites
 * Golang1.7(1.3+)
+
+# 3、快速使用
 
 1、go build main.go
 
